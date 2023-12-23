@@ -329,8 +329,3 @@ assign pout_s = {p_sign, p_exp2[7:0], p_mant_round1[22:0]};
 
 
 endmodule
-
-
-
-
-
